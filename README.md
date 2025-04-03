@@ -1,6 +1,6 @@
 # CodTech-IT-Solutions
 
-*Name* :  Akash Subodh Maji
+**Name** :  Akash Subodh Maji
 
 *Company* : CODTECH IT SOLUTIONS 
 
